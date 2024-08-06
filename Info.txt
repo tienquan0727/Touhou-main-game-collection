@@ -1,0 +1,136 @@
+-------------------------------------------------------------------Retro Era------------------------------------------------------------------
+                                                 Path: D:\Games\Touhou\Retro Era (Touhou 1-5)
+
+(1)Touhou 1: Highly Responsive to Prayers
+     Type: Breakout
+     Release: Comiket 52, on August 15, 1997
+(2)Touhou 2: The Story of Eastern Wonderland
+     Type: Bullet Hell
+     Release: Comiket 52, on August 15, 1997
+(3)Touhou 3: Phantasmagoria of Dimensional Dream
+     Type: Versus Bullet Hell
+     Release: Comiket 53, on December 29, 1997
+(4)Touhou 4: Lotus Land Story
+     Type: Bullet Hell
+     Release: Comiket 54, on August 14, 1998
+(5)Touhou 5: Mystic Square
+     Type: Bullet Hell
+     Release: Comiket 55, on December 30, 1998
+
+-----------------------------------------------------1st Windows Generation (TH6 - TH9.5)-----------------------------------------------------
+
+(1)Touhou 6: Koumakyou - The Embodiment of Scarlet Devil
+     Type: Bullet Hell
+     Release: Comiket 62, on August 11, 2002
+     Path: D:\Games\Touhou\Bullet Hell\Classic Bullet Hell\Touhou 6  - The Embodiment of Scarlet Devil
+(2)Touhou 7: Youyoumu - Perfect Cherry Blossom
+     Type: Bullet Hell
+     Release: Comiket 64, on August 17, 2003
+     Path: D:\Games\Touhou\Bullet Hell\Classic Bullet Hell\Touhou 7 - Perfect Cherry Blossom
+(3)Touhou 7.5: Suimusou - Immaterial and Missing Power
+     Type: Fighting
+     Release: Comiket 67, on December 30, 2004
+     Path: D:\Games\Touhou\Fighting\Touhou 7.5 - Immaterial and Missing Power
+(4)Touhou 8: Eiyashou - Imperishable Night
+     Type: Bullet Hell
+     Release: Comiket 67, on December 30, 2004
+     Path: D:\Games\Touhou\Bullet Hell\Classic Bullet Hell\Touhou 8 - Imperishable Night
+(5)Touhou 9: Kaiedzuka - Phantasmagoria of Flower View
+     Type: Versus Bullet Hell
+     Release: Comiket 68, on August 14, 2005
+     Path: D:\Games\Touhou\Bullet Hell\Versus Bullet Hell\Touhou 9 - Phantasmagoria of Flower View
+(6)Touhou 9.5: Bunkachou - Shoot the Bullet
+     Types: Bullet Hell Photography
+     Release: Comiket 69, on December 30, 2005
+     Path: D:\Games\Touhou\Bullet Hell\Bullet Hell Photography\Touhou 9.5 - Shoot the Bullet
+
+----------------------------------------------------2nd Windows Generation (TH10 - Th13.5)----------------------------------------------------
+
+(1)Touhou 10: Fuujinroku - Mountain of Faith
+     Type: Bullet Hell
+     Release: Comiket 72, on August 17, 2007
+     Path: D:\Games\Touhou\Bullet Hell\Classic Bullet Hell\Touhou 10 - Mountain of Faith
+(2)Touhou 10.5: Hisouten - Scarlet Weather Rhapsody
+     Type: Fighting
+     Release: Reitaisai 5, on May 28, 2008
+     Path: D:\Games\Touhou\Fighting\Touhou 10.5 - Scarlet Weather Rhapsody
+(3)Touhou 11: Chireiden - Subterranean Animism
+     Type: Bullet Hell
+     Release: Comiket 74, on August 16, 2008
+     Path: D:\Games\Touhou\Bullet Hell\Classic Bullet Hell\Touhou 11 - Subterranean Animism
+(4)Touhou 12: Seirensen - Undefined Fantastic Object
+     Type: Bullet Hell
+     Release: Comiket 76, on August 15, 2009
+     Path: D:\Games\Touhou\Bullet Hell\Classic Bullet Hell\Touhou 12 - Undefined Fantastic Object
+(5)Touhou 12.3: Hisoutensoku - Chase the Enigma of the Gargantuan Guignol
+     Type: Fighting
+     Release: Comiket 76, on August 15, 2009
+     Path: D:\Games\Touhou\Fighting\Touhou 12.3 - Hisoutensoku
+(6)Touhou 12.5: Bunkachou - Double Spoiler
+     Type: Bullet Hell Photography
+     Release: Reitaisai 7, on March 7, 2010
+     Path: D:\Games\Touhou\Bullet Hell\Bullet Hell Photography\Touhou 12.5 - Double Spoiler
+(7)Touhou 12.8: Sangetsusei - Great Fairy Wars
+     Type: Bullet Hell Freezing
+     Release: Comiket 78, on August 14, 2010
+     Path: D:\Games\Touhou\Bullet Hell\Bullet Hell Freezing\Touhou 12.8 - Fairy Wars
+(8)Touhou 13: Shinreibyou - Ten Desires
+     Type: Bullet Hell
+     Release: Comiket 80, on August 13, 2011
+     Path: D:\Games\Touhou\Bullet Hell\Classic Bullet Hell\Touhou 13 - Ten Desires
+(9)Touhou 13.5: Shinkirou - Hopeless Masquerade
+     Type: Fighting
+     Release: Reitaisai 10, on May 26, 2013
+     Path: D:\Games\Touhou\Fighting\Touhou 13.5 - Hopeless Masquerade
+
+-----------------------------------------------------3rd Windows Generation (TH14 - TH19)-----------------------------------------------------
+
+(1)Touhou 14: Kishinjou - Double Dealing Character
+     Type: Bullet Hell
+     Release: Comiket 84, on August 12, 2013
+     Path: D:\Games\Touhou\Bullet Hell\Classic Bullet Hell\Touhou 14 - Double-Dealing Character
+(2)Touhou 14.3: Danmaku Amanojaku - Impossible Spell Card
+     Type: Bullet Hell Boss Attack
+     Release: Reitaisai 11, on May 11, 2014
+     Path: D:\Games\Touhou\Bullet Hell\Bullet Hell Boss Attack\Touhou 14.3 - Impossible Spell Card
+(3)Touhou 14.5: Shinpiroku - Urban Legend in Limbo
+     Type: Fighting
+     Release: Reitaisai 12, on May 10, 2015
+     Path: D:\Games\Touhou\Fighting\Touhou 14.5 - Urban Legend in Limbo
+(4)Touhou 15: Kanjuden - Legacy of Lunatic Kingdom
+     Type: Bullet Hell
+     Release: Comiket 88, on August 14, 2015
+     Path: D:\Games\Touhou\Bullet Hell\Classic Bullet Hell\Touhou 15 - Legacy of Lunatic Kingdom
+(5)Touhou 15.5: Hyouibana - Antinomy of Common Flowers________________________________________________________________(*****)
+     Type: Fighter
+     Release: Comiket 93, on December 29, 2017
+     Path: 
+(6)Touhou 16: Tenkuushou - Hidden Star in Four Seasons
+     Type: Bullet Hell
+     Release: Comiket 92, on August 11, 2017
+     Path: D:\Games\Touhou\Bullet Hell\Classic Bullet Hell\Touhou 16 - Hidden Star in Four Seasons
+(7)Touhou 16.5: Violet Detector
+     Type: Bullet Hell Photography
+     Release: Comiket 94, on August 10, 2018
+     Path: D:\Games\Touhou\Bullet Hell\Bullet Hell Photography\Touhou 16.5 - Violet Detector
+(8)Touhou 17: Kikeijuu - Wily Beast and Weakest Creature
+     Type: Bullet Hell
+     Release: Comiket 96, on August 12, 2019
+     Path: D:\Games\Touhou\Bullet Hell\Classic Bullet Hell\Touhou 17 - Wily Beast and Weakest Creature
+(9)Touhou 17.5: Gouyoku Ibun ~ Suibotsushita Chinshuu Jigoku__________________________________________________________(*****)
+     Type: Side-Scroller
+     Release: Autumn Reitaisai 8, October 24, 2021
+     Path: 
+(10)Touhou 18: Kouryudou - Unconnected Marketeers_____________________________________________________________________(*****)
+     Type: Bullet Hell
+     Released:   Trial Version: Reitaisai 18, on March 21, 2021
+                 Full Version:  on May 4, 2021
+     Path: 
+(11)Touhou 18.5: Black Market of Bulletphilia ~ 100th Black Market____________________________________________________(*****)
+     Type: Bullet Hell
+     Released: Comiket 100, on August 13, 2022
+     Path: 
+(12)Touhou 19: Juuouen - Unfinished Dream of All Living Ghost_________________________________________________________(*****)
+     Type: Bullet Hell
+     Release: Comiket 102, on August 13, 2023
+     Path: 
